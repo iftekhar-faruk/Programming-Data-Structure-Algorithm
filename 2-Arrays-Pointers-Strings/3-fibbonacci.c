@@ -1,4 +1,4 @@
-// Example 2: Find the Fibonacci Series
+// Example 3: Find the Fibonacci Series
 // Date: 17-11-2023
 // Iftekhar Ahmed Faruk
 

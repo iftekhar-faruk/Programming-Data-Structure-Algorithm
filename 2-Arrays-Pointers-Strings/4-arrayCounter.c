@@ -1,4 +1,4 @@
-// Example 2: Array of Counters
+// Example 4: Array of Counters
 // Date: 17-11-2023
 // Iftekhar Ahmed Faruk
 
