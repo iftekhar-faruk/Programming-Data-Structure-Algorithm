@@ -16,4 +16,4 @@ int main(void)
     printf("The value of the integer pointed to by ptr is %d\n", *ptr);
 
     return 0;
-}
+} 
